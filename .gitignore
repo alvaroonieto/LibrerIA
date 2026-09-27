@@ -1,0 +1,17 @@
+# Claves y secretos: NUNCA a GitHub
+.env
+
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Los datos procesados (data/books_clean.csv y data/book_embeddings.npy) SÍ se suben:
+# el servidor los necesita y así no tiene que calcularlos.
+
+# Carteles generados
+personalizacion/cartel_qr*
+personalizacion/qr*.png

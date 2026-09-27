@@ -1,0 +1,15 @@
+Pon aquí las imágenes. El nombre del fichero es lo que importa
+(vale .png, .jpg, .jpeg, .webp o .svg). Si falta alguna, se usa la de por defecto.
+
+  lia.png     → dibujo de Lía (avatar). Cuadrado, mínimo 400x400 px.
+                Se recorta en círculo: deja la cara centrada.
+  logo.png    → logo de la librería. Mejor con fondo transparente (PNG).
+                Se muestra arriba a la izquierda, ~48 px de alto.
+  fondo.png   → imagen de fondo (p. ej. un libro abierto). Horizontal,
+                mínimo 1920x1080 px. Se aclara automáticamente para que
+                el texto se lea (ajusta "opacidad_fondo" en marca.json).
+  cabecera.png → (opcional) ilustración grande encima del título.
+                Horizontal, p. ej. 1200x400 px.
+
+Consejo para la ilustradora: tonos cálidos y suaves, sin mucho detalle
+detrás de donde va el texto.

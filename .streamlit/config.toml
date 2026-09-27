@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#B5573A"
+backgroundColor = "#FBF6EC"
+secondaryBackgroundColor = "#F1E4CF"
+textColor = "#3B2F2A"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+# Evita avisos de "torchvision" en la terminal (Streamlit revisa todas las librerías).
+# Si cambias el código, para con Ctrl+C y vuelve a lanzar la app.
+fileWatcherType = "none"

@@ -1,0 +1,20 @@
+Pictogramas: un dibujo por cada botón de "¿Prefieres elegir con dibujos?".
+
+El nombre del fichero tiene que ser el "id" que aparece en marca.json:
+  misterio.png, amor.png, aventura.png, fantasia.png, ciencia_ficcion.png,
+  miedo.png, risa.png, historia.png, infantil.png, poesia.png, vidas.png, corto.png
+
+Si falta alguno, se muestra el emoji que tiene asignado en marca.json.
+
+Recomendaciones:
+  - Cuadrados, mínimo 300x300 px, PNG con fondo transparente o blanco.
+  - Trazo grueso, pocos detalles, un solo concepto por dibujo.
+  - Mismo estilo en todos.
+
+Para añadir, quitar o cambiar botones: edita la lista "pictogramas" en marca.json
+(id, emoji, texto en cada idioma y "busqueda", que es lo que Lía busca al pulsarlo).
+
+Alternativa: ARASAAC (arasaac.org) tiene pictogramas gratuitos muy usados con
+personas autistas. Licencia CC BY-NC-SA: uso NO comercial y hay que citar
+"Autor pictogramas: Sergio Palao. Origen: ARASAAC (http://www.arasaac.org).
+ Licencia: CC (BY-NC-SA). Propiedad: Gobierno de Aragón (España)".

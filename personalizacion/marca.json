@@ -1,0 +1,59 @@
+{
+  "asistente": "Lía",
+  "libreria": "Tu librería",
+  "idioma_por_defecto": "es",
+  "idiomas": ["es", "en", "fr"],
+
+  "textos": {
+    "es": {
+      "titulo": "Pregúntale a Lía",
+      "subtitulo": "Tu librera de confianza. Cuéntale qué te apetece leer y buscará entre los libros que tenemos aquí.",
+      "saludo": "¡Hola! Soy Lía. Dime qué tipo de libro te apetece: un género, un tema, algo que te haya gustado… Si quieres, también puedes decirme cuántas páginas o qué NO te apetece.",
+      "placeholder": "Escribe aquí lo que te apetece leer…",
+      "aviso_librero": "¿Prefieres hablar con una persona? Acércate al mostrador: estaremos encantados de ayudarte.",
+      "sugerencias": ["Algo cortito para desconectar", "Una novela negra que enganche", "Un clásico muy bien valorado"]
+    },
+    "en": {
+      "titulo": "Ask Lía",
+      "subtitulo": "Your friendly bookseller. Tell her what you feel like reading and she'll search the books we have here.",
+      "saludo": "Hi! I'm Lía. Tell me what kind of book you fancy: a genre, a topic, something you loved… You can also tell me how many pages, or what you DON'T want.",
+      "placeholder": "Type what you'd like to read…",
+      "aviso_librero": "Would you rather talk to a person? Come to the counter: we'll be happy to help.",
+      "sugerencias": ["Something short to unwind", "A gripping crime novel", "A highly rated classic"]
+    },
+    "fr": {
+      "titulo": "Demande à Lía",
+      "subtitulo": "Ta libraire de confiance. Dis-lui ce que tu as envie de lire et elle cherchera parmi les livres que nous avons ici.",
+      "saludo": "Bonjour ! Je suis Lía. Dis-moi quel genre de livre te tente : un genre, un thème, un livre que tu as aimé… Tu peux aussi me dire combien de pages, ou ce que tu NE veux PAS.",
+      "placeholder": "Écris ici ce que tu as envie de lire…",
+      "aviso_librero": "Tu préfères parler à quelqu'un ? Viens au comptoir : nous serons ravis de t'aider.",
+      "sugerencias": ["Un livre court pour décompresser", "Un polar prenant", "Un classique très bien noté"]
+    }
+  },
+
+  "pictogramas": [
+    {"id": "misterio",        "emoji": "🔍", "es": "Misterio",         "en": "Mystery",         "fr": "Mystère",          "busqueda": "novela de misterio, detectives e investigación de un crimen"},
+    {"id": "amor",            "emoji": "❤️", "es": "Amor",             "en": "Love",            "fr": "Amour",            "busqueda": "novela romántica, historia de amor"},
+    {"id": "aventura",        "emoji": "🧭", "es": "Aventura",         "en": "Adventure",       "fr": "Aventure",         "busqueda": "novela de aventuras, viajes y exploración"},
+    {"id": "fantasia",        "emoji": "🐉", "es": "Fantasía",         "en": "Fantasy",         "fr": "Fantasy",          "busqueda": "fantasía épica con magia y dragones"},
+    {"id": "ciencia_ficcion", "emoji": "🚀", "es": "Ciencia ficción",  "en": "Science fiction", "fr": "Science-fiction",  "busqueda": "ciencia ficción, espacio, futuro y tecnología"},
+    {"id": "miedo",           "emoji": "👻", "es": "Miedo",            "en": "Scary",           "fr": "Peur",             "busqueda": "novela de terror y miedo"},
+    {"id": "risa",            "emoji": "😂", "es": "Para reír",        "en": "Funny",           "fr": "Pour rire",        "busqueda": "libro de humor, divertido, para reír"},
+    {"id": "historia",        "emoji": "🏛️", "es": "Historia",         "en": "History",         "fr": "Histoire",         "busqueda": "novela histórica o libro de historia"},
+    {"id": "infantil",        "emoji": "🧸", "es": "Para niños",       "en": "For children",    "fr": "Pour enfants",     "busqueda": "libro infantil para niños"},
+    {"id": "poesia",          "emoji": "🪶", "es": "Poesía",           "en": "Poetry",          "fr": "Poésie",           "busqueda": "poesía y poemas"},
+    {"id": "vidas",           "emoji": "👤", "es": "Vidas reales",     "en": "Real lives",      "fr": "Vies réelles",     "busqueda": "biografía o memorias de una persona real"},
+    {"id": "corto",           "emoji": "📗", "es": "Libro corto",      "en": "Short book",      "fr": "Livre court",      "busqueda": "libro corto, fácil de leer"}
+  ],
+
+  "colores": {
+    "fondo": "#FBF6EC",
+    "tarjeta": "#FFFDF8",
+    "texto": "#3B2F2A",
+    "texto_suave": "#7A6A5F",
+    "acento": "#B5573A",
+    "suave": "#F1E4CF"
+  },
+  "opacidad_fondo": 0.88,
+  "url_publica": ""
+}
